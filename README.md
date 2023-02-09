@@ -1,4 +1,5 @@
 # squidy
-Optimize data pipeline with SQL and Python
+data engineering portfolio
 
-sldkfjslkdfjlkjflsfjdlf
+
+#[Project 1: Optimize data pipeline with SQL and Python]
