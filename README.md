@@ -7,7 +7,7 @@ data engineering portfolio
 - Clean and transform the data format
 - Insert data to postgres database
 
-![Target source and its destination](.xlsx.jpg)
+![Target source and its destination](xlsx-2.jpg)
 
 
 
