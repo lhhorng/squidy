@@ -16,8 +16,3 @@ data engineering portfolio
 - Best use for small volumn of data
 
 
-
-
-
-
-
