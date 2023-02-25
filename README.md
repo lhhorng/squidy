@@ -2,7 +2,7 @@
 data engineering portfolio
 
 
-##[Task 1: ETL bulk load] (https://github.com/lhhorng/etl_bulk_load)
+##[Task 1: ETL bulk load](https://github.com/lhhorng/etl_bulk_load)
 - Read bulk excel file through python
 - Clean and transform the data format
 - Insert excel data to postgres db
