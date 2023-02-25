@@ -8,8 +8,6 @@ data engineering portfolio
 - Insert excel data to postgres db
 
 
-![Target source and its destination](P1.png)
-
 ##[Task 2: ETL upsert method on last_active_user](https://github.com/lhhorng/ETL_upsert_method)
 - Optimize ETL process using SQL and python
 - Transform data in the same destination
